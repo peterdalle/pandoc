@@ -21,3 +21,12 @@ Resources for converting academic journal articles written in RMarkdown/Markdown
 - [The Plain Person’s Guide to Plain Text Social Science, Kieran Healy](https://kieranhealy.org/files/papers/plain-person-text.pdf)
 - [How Not To Worry About Apa Style](http://blog.efpsa.org/2015/06/09/how-not-to-worry-about-apa-style/)
 - [All you need is text - Markdown (via pandoc) for academia](http://www.surefoss.org/publishing-publizieren/all-you-need-is-text-markdown-via-pandoc-for-academia/)
+
+## Plugins
+
+Extensions for Zotero, Sublime Text, Atom.
+
+- [Zotero better bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts.
+- [Citer](https://github.com/mangecoeur/Citer) - Sublime Text citations from bibtex.
+- [Academic Markdown](https://github.com/mangecoeur/AcademicMarkdown) - Sublime Text extension adds an Academic Markdown language variant.
+- [Zotero Picker](https://atom.io/packages/zotero-picker) - Atom extension to facilitate citation insertion from Zotero.
