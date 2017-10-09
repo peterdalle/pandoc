@@ -2,6 +2,8 @@
 
 Resources for converting academic journal articles written in RMarkdown/Markdown to PDF files with APA6 style reference formatting.
 
+I have compiled a complete manuscript template (including a template for anonymous review) that you can use, see [Academic article template](https://github.com/peterdalle/academic-article-template).
+
 ## Templates
 
 - [User contributed templates](https://github.com/jgm/pandoc/wiki/User-contributed-templates)
