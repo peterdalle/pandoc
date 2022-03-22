@@ -26,13 +26,13 @@ I have compiled a complete manuscript template (including a template for anonymo
 
 ## Plugins
 
-Extension for Zotero
+Extensions for Zotero
 
 - [Better BibTex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts.
 - [ZotFile](http://zotfile.com/) - Automatically rename, move, and attach PDFs, and extract annotations from PDF files.
 - [Zutilo](https://github.com/wshanks/Zutilo) - Add additional editing features (e.g., select and right-click to relate several items).
 
-Extension for Sublime Text, Atom
+Extensions for Sublime Text, Atom
 
 - [Citer](https://github.com/mangecoeur/Citer) - Sublime Text citations from bibtex.
 - [Academic Markdown](https://github.com/mangecoeur/AcademicMarkdown) - Sublime Text extension adds an Academic Markdown language variant.
