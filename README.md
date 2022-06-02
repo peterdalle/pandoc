@@ -30,6 +30,9 @@ I have compiled a complete manuscript template (including a template for anonymo
 ### Presentation templates
 
 - Dirk Eddelbuettel: [binb: Binb is not Beamer](https://github.com/eddelbuettel/binb) (PDF)
+- [Presento](https://github.com/RatulSaha/presento)
+- [A Beamer theme featuring IQSS orange](https://github.com/IQSS/iqss-beamer-theme)
+- [Metropolis - modern LaTeX Beamer theme](https://github.com/matze/mtheme)
 
 ## Citation styles
 
