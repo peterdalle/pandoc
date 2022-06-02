@@ -17,6 +17,10 @@ I have compiled a complete manuscript template (including a template for anonymo
 - [papaja: Preparing APA Journal Articles, provides document formats and helper functions to produce complete APA manscripts from RMarkdown-files](https://github.com/crsh/papaja)
 - Dirk Eddelbuettel: [tint: Tint is not Tufte](https://github.com/eddelbuettel/tint) (PDF/HTML)
 
+### Report templates
+
+- [Offensive Security Exam Report Template in Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
+
 ### Book templates
 
 - [Monash PhD Thesis Rmarkdown Template](https://github.com/robjhyndman/MonashThesis)
