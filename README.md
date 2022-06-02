@@ -8,10 +8,18 @@ I have compiled a complete manuscript template (including a template for anonymo
 
 - [User contributed templates](https://github.com/jgm/pandoc/wiki/User-contributed-templates)
 - [Kieran Healy: Pandoc templates](https://github.com/kjhealy/pandoc-templates)
+
+## Rmarkdown templates
+
 - [Steve's R Markdown Templates](https://github.com/svmiller/svm-r-markdown-templates)
 - [rticles: LaTeX Journal Article Templates for R Markdown](https://github.com/rstudio/rticles)
 - [pandoc-apa6: create APA6 compliant PDF from markdown source](https://github.com/mattweidner/pandoc-apa6)
 - [papaja: Preparing APA Journal Articles, provides document formats and helper functions to produce complete APA manscripts from RMarkdown-files](https://github.com/crsh/papaja)
+- [Monash PhD Thesis Rmarkdown Template](https://github.com/robjhyndman/MonashThesis)
+- [R Markdown templates for Monash University](https://github.com/numbats/monash)
+ 
+## Citation styles
+
 - [Find and edit CSL citation styles](http://editor.citationstyles.org/)
 
 ## Guides
