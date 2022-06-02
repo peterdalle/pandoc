@@ -8,16 +8,29 @@ I have compiled a complete manuscript template (including a template for anonymo
 
 - [User contributed templates](https://github.com/jgm/pandoc/wiki/User-contributed-templates)
 - [Kieran Healy: Pandoc templates](https://github.com/kjhealy/pandoc-templates)
-
-## Rmarkdown templates
-
 - [Steve's R Markdown Templates](https://github.com/svmiller/svm-r-markdown-templates)
+
+### Article templates
+
 - [rticles: LaTeX Journal Article Templates for R Markdown](https://github.com/rstudio/rticles)
 - [pandoc-apa6: create APA6 compliant PDF from markdown source](https://github.com/mattweidner/pandoc-apa6)
 - [papaja: Preparing APA Journal Articles, provides document formats and helper functions to produce complete APA manscripts from RMarkdown-files](https://github.com/crsh/papaja)
+- Dirk Eddelbuettel: [tint: Tint is not Tufte](https://github.com/eddelbuettel/tint) (PDF/HTML)
+
+### Book templates
+
 - [Monash PhD Thesis Rmarkdown Template](https://github.com/robjhyndman/MonashThesis)
 - [R Markdown templates for Monash University](https://github.com/numbats/monash)
- 
+
+### Letter templates
+
+- [A simple letter template for Pandoc](https://github.com/aaronwolen/pandoc-letter)
+- Dirk Eddelbuettel: [linl: Linl is not Letter](https://github.com/eddelbuettel/linl) (PDF)
+
+### Presentation templates
+
+- Dirk Eddelbuettel: [binb: Binb is not Beamer](https://github.com/eddelbuettel/binb) (PDF)
+
 ## Citation styles
 
 - [Find and edit CSL citation styles](http://editor.citationstyles.org/)
