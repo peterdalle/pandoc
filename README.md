@@ -16,7 +16,8 @@ I have compiled a complete manuscript template (including a template for anonymo
 - [pandoc-apa6: create APA6 compliant PDF from markdown source](https://github.com/mattweidner/pandoc-apa6)
 - [papaja: Preparing APA Journal Articles, provides document formats and helper functions to produce complete APA manscripts from RMarkdown-files](https://github.com/crsh/papaja)
 - Dirk Eddelbuettel: [tint: Tint is not Tufte](https://github.com/eddelbuettel/tint) (PDF/HTML)
-
+- [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template)
+ 
 ### Report templates
 
 - [Offensive Security Exam Report Template in Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
