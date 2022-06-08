@@ -31,6 +31,7 @@ I have compiled a complete manuscript template (including a template for anonymo
 
 - [A simple letter template for Pandoc](https://github.com/aaronwolen/pandoc-letter)
 - Dirk Eddelbuettel: [linl: Linl is not Letter](https://github.com/eddelbuettel/linl) (PDF)
+- [A pandoc template for letterhead](https://blog.hartleygroup.org/2015/08/01/a-pandoc-template-for-letterhead/)
 
 ### Presentation templates
 
